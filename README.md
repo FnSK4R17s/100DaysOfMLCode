@@ -11,4 +11,4 @@
 
 **Link(s) to work:**
 [Github Project](http://www.github.com/FnSK4R17s/California_Housing_day1)
-[Youtube Video](http://www.youtube.com)
+[Youtube Video](https://youtu.be/cNrQAg8S0dw)
